@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @creator112
 - 👀 I’m interested in internet
-- 🌱 I’m currently learning accounting
-- 💞️ I’m looking to collaborate on how to hack
+- 🌱 I’m currently learning website develop
+- 💞️ I’m looking to collaborate on how to hack and create some official websites
 - 📫 How to reach me therealcreator1234@gmail.com
 
 <!---
